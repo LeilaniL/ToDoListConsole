@@ -4,3 +4,13 @@
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.deps.json
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.json
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.dev.json
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\leila\desktop\code-projects\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.pdb
